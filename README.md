@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm a Full-Stack Software Developer 👋
 
-<!--
-**fullupe/fullupe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build high-performance, scalable applications for **Web, Desktop, and Mobile**. Specializing in cross-platform mobile development, robust database design, and real-time data ecosystems, I focus on turning complex business logic into smooth user experiences.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Working On Right Now
+
+*   **🎰 5/90 Lottery System (Android POS & Back Office)**
+    *   **The Mobile App:** A high-frequency transactional application tailored specifically for Android POS terminal hardware, handling real-time ticket sales and secure receipts.
+    *   **The Back Office:** A complete administrative hub for managing automated reporting, transaction logs, revenue tracking, and live draw processing.
+    *   **Tech Stack:** React Native, Expo, Node.js, Express, and Relational Databases.
+
+---
+
+### 🛠️ My Tech Stack
+
+| Frontend & Mobile | Backend & Databases | Tools & Ecosystem |
+| :--- | :--- | :--- |
+| **React** / **Next.js** | **Node.js** / **Express** | **Expo** (Development Builds) |
+| **React Native** | **Supabase** / **Firebase** | **Git** / **GitHub** |
+| TypeScript | **MySQL** / **SQLite** | RESTful APIs & Webhooks |
+| Tailwind CSS / NativeWind | Row-Level Security (RLS) | Android POS SDK Integrations |
+
+---
+
+### 🌟 Featured Projects
+
+*   **🏫 School Management System (SMS):** A full-scale administrative ecosystem featuring dynamic dashboards, live attendance logs, terminal assessment tracking, automated financial reporting (fee chasing/arrears), and institutional transcript generation matching national **GES grading standards**.
+*   **🍽️ Localized Meal Planner:** A digital menu-planning interface engineered around regional culinary databases with automated ingredient parsing and smart shopping list generation.
+
+---
+
+### 📫 Connect With Me
+
+*   💬 Ask me about: **React Native, Expo architecture, database schema design, or integrating third-party payment gateways (like Paystack).**
+*   📫 How to reach me: `wnk.gyekye@gmail.com`
+*   💼 LinkedIn: [williamgkyekye](https://www.linkedin.com/in/williamgkyekye/)
+
+---
